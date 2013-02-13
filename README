@@ -1,0 +1,3 @@
+An OOP-designed arithmetic expression evaluator.
+
+	input 1+2*3-8/4/2+1*3 should result in 9
